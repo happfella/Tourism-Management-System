@@ -1,0 +1,81 @@
+h1 {
+    font-size: 60px;
+    text-shadow: 3px 4px black;
+       }
+
+
+   
+.center 
+       {
+    line-height: 100px;
+    height: 10px;
+    border: 3px transparent;
+    text-align: center;
+           }
+			  
+		
+.button {
+    background-color: #F5702F; 
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1 {
+	      width: 200px;
+		  border-radius: 8px; 
+		  color: white;
+		  padding: 8px 32px;
+		  font-size: 20px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  background-color: grey;
+		  }
+.button2 {
+	     width: 200px;
+		  border-radius: 8px; 
+		  color: white;
+		  padding: 8px 32px;
+		  font-size: 20px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  background-color: grey;
+	      }
+.button3 {
+          width: 260px;
+		  border-radius: 8px; 
+		  color: white;
+		  padding: 8px 32px;
+		  font-size: 20px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  background-color: grey;
+          }
+
+.button4 {
+          width: 260px;
+		  border-radius: 8px; 
+		  color: white;
+		  padding: 8px 10px;
+		  font-size: 20px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  background-color: #F5702F ;
+          }
+
+
+.tabs {
+	float:right;
+			margin: 10px 5px;
+}
+
+.search {
+	float:right;
+			margin left:70px 40px;
+}
